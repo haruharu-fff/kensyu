@@ -1,1 +1,1 @@
-githubにpushするテスト
+githubにプッシュするテスト
